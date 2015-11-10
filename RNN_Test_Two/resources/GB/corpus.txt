@@ -1,0 +1,13 @@
+.
+A
+C
+G
+T
+STS
+tRNA
+rRNA
+CDS
+gene
+START
+source
+PUNC

@@ -1,0 +1,5 @@
+STS
+gene
+START
+source
+PUNC
