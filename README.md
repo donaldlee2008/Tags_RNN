@@ -1,1 +1,1 @@
-# GenomeTags_RNN
+# Example of RNN
